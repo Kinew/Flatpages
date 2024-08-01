@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf24ea9d-ce15-4dab-b3d5-c8713bb45521" name="Changes" comment="Create Progect">
-      <change afterPath="$PROJECT_DIR$/progect/fpages/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progect/templates/flatpages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progect/templates/flatpages/contact_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progect/templates/flatpages/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progect/templates/flatpages/inc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cf24ea9d-ce15-4dab-b3d5-c8713bb45521" name="Changes" comment="update Progect">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progect/progect/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/progect/progect/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progect/progect/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/progect/progect/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/fpages/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/fpages/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/progect/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/progect/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/progect/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/progect/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/progect/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/project/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/templates/flatpages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/flatpages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/templates/flatpages/contact_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/flatpages/contact_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/templates/flatpages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/flatpages/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progect/templates/flatpages/inc.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/flatpages/inc.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1720897518086</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update Progect">
+      <option name="closed" value="true" />
+      <created>1721249153121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721249153121</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update Progect">
+      <option name="closed" value="true" />
+      <created>1721249543340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721249543340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Progect" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Progect" />
+    <MESSAGE value="update Progect" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Progect" />
   </component>
 </project>
